@@ -1,4 +1,4 @@
-# OAuth 2.0 - modification
+# OAuth 2.0 - modification 2.0
 
 In addition to API tokens, we support OAuth 2.0 for third-party
 integrations.
