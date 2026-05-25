@@ -10,7 +10,7 @@
 
 Returns a paginated list of invoices for the authenticated account.
 
-### Query parameters
+### Query parameters suck
 
 - `limit` (integer, default 50, max 100)
 - `starting_after` (string) — cursor for pagination
